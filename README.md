@@ -1,16 +1,11 @@
-### Hi there 👋
+- 👋 Hi, I’m @Ableytner. 
+- 👀 I’m interested in Python, , Unity, C#. 
+- 🌱 I’m currently learning Python. 
+- 🌱 I’m currently working on [mcserver-tools](https://github.com/mcserver-tools). 
+- 💞️ I’m currently not looking for collaborations. 
+- 📫 How to reach me: Bellgadse#4744 on Discord 
 
-<!--
-**Ableytner/Ableytner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+Ableytner/Ableytner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
