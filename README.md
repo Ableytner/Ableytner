@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ableytner. 
-- 👀 I’m interested in Python, , Unity, C#. 
-- 🌱 I’m currently learning Python. 
-- 🌱 I’m currently working on [mcserver-tools](https://github.com/mcserver-tools). 
+- 👀 I’m interested in Python, C++. 
+- 🌱 I’m currently learning C++. 
+- 🌱 I’m currently working on [IridiumMC](https://github.com/Ableytner/IridiumMC). 
 - 💞️ I’m currently not looking for collaborations. 
 - 📫 How to reach me: Bellgadse#4744 on Discord 
 
