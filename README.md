@@ -5,7 +5,13 @@
 - 💞️ I’m currently not looking for collaborations. 
 - 📫 How to reach me: ableytner on Discord 
 
-<!---
-Ableytner/Ableytner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+<a href="https://github.com/ableytner/github-stats#gh-dark-mode-only">
+<img src="https://github.com/ableytner/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/ableytner/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/ableytner/github-stats#gh-light-mode-only">
+<img src="https://github.com/ableytner/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/ableytner/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</a>
+</div>
