@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ableytner. 
 - 👀 I’m interested in Python, Java, C#. 
-- 🌱 I’m currently learning Java. 
-- 🌱 I’m currently working on [Nikobot](https://github.com/Ableytner/NikoBot), a general-purpose discord bot. 
+- 🌱 I’m currently learning C, C++. 
+- 🌱 I’m currently working on migrating my Homelab to Kubernetes (k3s). 
 - 💞️ I’m currently not looking for collaborations. 
 - 📫 How to reach me: ableytner on Discord 
 
